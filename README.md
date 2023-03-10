@@ -27,7 +27,7 @@ The task from frontendmentor.io was to create a QR code component card. this doc
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/i-created-a-qr-code-component-using-html-and-css-custom-properties-qpOV1aez5a)
 - Live Site URL:(https://gleaming-brioche-3dc17d.netlify.app/)
 
 ## My process
